@@ -37,6 +37,10 @@ object Build : BuildType({
         root(DslContext.settingsRoot)
     }
 
+    steps {
+
+    }
+
     triggers {
         vcs {
         }
